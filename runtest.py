@@ -1,5 +1,5 @@
 import unittest,time
-import HTMLTestRunner
+from common import HTMLTestRunner
 
 # 定义测试用例的目录为当前目录
 # test_dir = 'D:\\test_project\\test_case'
